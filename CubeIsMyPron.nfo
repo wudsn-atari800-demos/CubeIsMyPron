@@ -1,0 +1,29 @@
+>>> Cube is my Pron - 256-byte vector cube <<<
+
+(c) 2011-05-24 by JAC! of WUDSN
+
+
+Based on the awesome code by Skate / Plush. Man you rule!
+Related to: Rottoprojo64 Coder Pron
+http://www.pouet.net/prod.php?which=56981
+
+After fighting the RottoprojoXL down to 254 bytes, 
+I decided to approach the final frontier that has
+always been there in my mind for over 20 years:
+
+>> The mother of all objects in 256 bytes on an 8-bit machine from 1983 <<
+
+The result is a real-time rotated, projected, and
+drawn wire cube running at about 3-5 FPS. 
+
+The demo is available in low and high resolution.
+The screen is double buffered to avoid flickering.
+The speed of the rotation can be adjusted in 8 steps in the source.
+The colors are alternating every 8 seconds and become nicer over time.
+
+Load from MyPicoDos without BASIC and with Atari XL OS Revision 2.
+This version uses undocumented OS entry points which
+will be different in a different OS version.
+If you need it for a different OS, just contact me.
+
+Created using WUDSN IDE, visit https://www.wudsn.com for more.
